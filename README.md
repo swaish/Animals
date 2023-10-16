@@ -1,4 +1,4 @@
-# my-repository
+# Git practice is my- new repository
 
 
 hi this is my first repository
